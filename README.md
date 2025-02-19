@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on daily small projects to practice<br>🌱 I’m currently completing my CS studies. <br>
+🔭 I’m currently working on daily small projects to grow<br>🌱 I’m currently completing my CS studies. <br>
 
 
 # 💻 Tech Stack:
